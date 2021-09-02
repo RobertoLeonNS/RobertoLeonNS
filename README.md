@@ -1,15 +1,4 @@
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-                                                                      Hi, my name is Roberto ✌
-                                                                      
-                                                                      
-                                                                      
-                                                                      
-                                                                      
-                                                                      I am software developer 💻
-24 years 😉
+# Welcome to my profile! :P 👋
+Hello my name is Roberto i am from Valencia, Spain and i am software develoer and hacking ethical expert 
 
-
-
-
-                                                                      I am from Valencia, Spain
-I like Python, jsx, js
+my favorite language is python, jsx and js! 😊
